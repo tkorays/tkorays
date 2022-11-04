@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tkorays
-- 👀 I’m interested in RTC
+- 👀 I’m interested in WebRTC and creating perfect tools
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on CFAST
 - 📫 [zhihu](https://www.zhihu.com/people/vpqr) [weibo](https://weibo.com/u/2865765294)
